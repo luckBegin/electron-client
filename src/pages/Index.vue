@@ -9,6 +9,13 @@
 
 <script>
 export default {
-  name: 'PageIndex'
+  name: 'PageIndex',
+  created() {
+  },
+  methods: {
+    openLink() {
+
+    }
+  }
 }
 </script>
