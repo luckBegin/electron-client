@@ -13,9 +13,6 @@ export default {
   created() {
   },
   methods: {
-    openLink() {
-
-    }
   }
 }
 </script>
